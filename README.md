@@ -91,14 +91,24 @@ Realizei testes e relatórios de cobertura de testes.
  </li>
 </ul>
 
+<h2 dir="auto"> ⚠️ Especificação e requisitos </h2>
+<ul dir="auto">
+  <li> Requisito I -  Lógica de programação e POO. </li>
+  <li> Requisito II -  Conhecimento Avançado em Java e Spring Boot. </li>
+  <li> Requisito III -   Conhecimento em Banco de dados PostgreSQL. </li>
+  <li> Requisito IV -  Conhecimento em GitHub e Heroku. </li>
+</ul>
+
 <h2 dir="auto"> 🤝 Contribuindo </h2>
-<p dir="auto">Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em
-saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.</p>
+<p dir="auto">
+  Este repositório foi criado para fins de estudo, então contribua com ele. Se te ajudei de alguma forma, ficarei feliz em
+saber. E caso você conheça alguém que se identidique com o conteúdo, não deixe de compatilhar.
+</p>
 
 <p dir="auto"> 
  <em>
   Projeto desenvolvido utilizando os conhecimentos adquiridos durante o 
-  <strong> Santander Bootcamp Fullstack Developer 2022! </strong><br>
-  Programa ofertado Pelo <strong> Santander </strong> em parceria com a <a href="https://www.dio.me/"> <strong>  Digital Innovation One ❤️ </strong> </a>
+  <strong> Spring Framework Experience 2022! </strong><br>
+  Programa ofertado Pela <a href="https://www.dio.me/"> <strong>  Digital Innovation One ❤️ </strong> </a>
  </em> 
 </p>
