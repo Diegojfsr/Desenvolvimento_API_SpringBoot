@@ -21,22 +21,73 @@ Realizei testes e relatórios de cobertura de testes.
 <h2 dir="auto"> 🚦 Guia </h2>
 <ul dir="auto">
  <li> 
-  Módulo 0 - Prepare-se para a Jornada.<a href="https://www.notion.so/diegojfsr/M-dulo-0-Prepare-se-para-a-Jornada-3f2babc31be74d6f946062569777d0e2">Acessar</a>
+  Apresentação dos objetivos e requisitos do projeto. Introdução aos conceitos do Spring Boot. Gerando nossa aplicação com o Spring Initializr. <a href="https://">Acessar</a>
  </li>
  <li> 
-  Módulo I - Conteúdo de Abertura. <a href="https://www.notion.so/diegojfsr/M-dulo-I-Conte-do-de-Abertura-6890331f78174607b5d998ce6a77431f"> Acessar </a>
+  Apresentando a estrutura do pom.xml e as dependências do projeto. <a href="https://"> Acessar </a>
  </li>
  <li> 
-  Módulo II - HTML/CSS3/JS. <a href="https://www.notion.so/diegojfsr/M-dulo-II-HTML-CSS3-JS-2e48276de16b4836862f1403b2de6967"> Acessar </a>
+  Demonstrando outras formas de iniciar nosso projeto. Subindo a aplicação para GitHub. <a href="https://"> Acessar </a>
  </li>
  <li> 
-  Módulo III - Angular. <a href="https://www.notion.so/diegojfsr/M-dulo-III-Angular-01ab444eeb7a401cb17b52af728a308d"> Acessar </a>
+  MHospedando aplicação no Heroku. Adicionando o System Properties. <a href="https://"> Acessar </a>
  </li>
  <li> 
-  Módulo IV - Java. <a href="https://www.notion.so/diegojfsr/M-dulo-IV-JAVA-b83817ad777f47d6aeec4e6e654278d4"> Acessar </a>
+  Apresentando os conceitos REST e Verbos HTTP. Criando o primeiro endpoint de cadastro. <a href="https://"> Acessar </a>
  </li>
  <li> 
-  Módulo V - Spring Framework. <a href="https://www.notion.so/diegojfsr/M-dulo-V-Spring-Framework-e16219316118409e96f0e06501829e6b"> Acessar </a>
+  Aplicando Design Patterns DTO para representar nossa view. Finalizando a criação do endpoint de cadastro. <a href="https://"> Acessar </a>
+ </li>
+ <li> 
+  Modelando a conversão das Lista e aplicando o o ResponseEntity. <a href="https://"> Acessar </a>
+ </li>
+ <li> 
+  Criando o método findById() e implementando o @PostMapping. <a href="https://"> Acessar </a>
+ </li>
+ <li> 
+  Documentando a API com Swagger utilizando o Spring Fox. <a href="https://"> Acessar </a>
+ </li>
+ <li> 
+  Configurando as exceções da aplicação e fazendo o tratamento no controller. <a href="https://"> Acessar </a>
+ </li>
+ <li> 
+  Construindo os métodos UPDATE e DELETE. <a href="https://"> Acessar </a>
+ </li>
+ <li> 
+  Realizando os testes da API e configurando as portas da aplicação. <a href="https://"> Acessar </a>
+ </li>
+ <li> 
+  Implementando os testes do findAll(). <a href="https://"> Acessar </a>
+ </li>
+ <li> 
+  Revisando a API e iniciando o conceito de Persistência. <a href="https://"> Acessar </a>
+ </li>
+ <li> 
+  Trabalhando com JPA. Configurando o Banco de dados e criando um container. <a href="https://"> Acessar </a>
+ </li>
+ <li> 
+  Realizando alterações no Service e criando a interface Repository. <a href="https://"> Acessar </a>
+ </li>
+ <li> 
+  Implementando algoritmos da regra de negócio. Realizando o cálculo de dias e horas. <a href="https://"> Acessar </a>
+ </li>
+ <li> 
+  Testando o banco de dados da aplicação e realizando as implementações do TestContainers. <a href="https://"> Acessar </a>
+ </li>
+ <li> 
+  Atualizando as tabelas do banco de dados e visualizando o Heroku com o DB. <a href="https://"> Acessar </a>
+ </li>
+ <li> 
+  Configurando a segurança da aplicação, acessando e configurando acesso ao Swagger-uri. Adicionando a dependência Spring Security. <a href="https://"> Acessar </a>
+ </li>
+ <li> 
+  Criando a classe de configuração. Security web. SecurityConfiguration. <a href="https://"> Acessar </a>
+ </li>
+ <li> 
+  Finalizando as configurações de acesso e a API. <a href="https://"> Acessar </a>
+ </li>
+ <li> 
+  Entendendo o Desafio e Materiais de Apoio. <a href="https://"> Acessar </a>
  </li>
 </ul>
 
